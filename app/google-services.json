@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "782499594197",
+    "firebase_url": "https://iot-pollution-fd72c-default-rtdb.firebaseio.com",
+    "project_id": "iot-pollution-fd72c",
+    "storage_bucket": "iot-pollution-fd72c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782499594197:android:b2b2723af8ac280ace075c",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782499594197-16q02ru2cc5jeqs3f4vvi4de1haf6aqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKukn-C9uf3J33PFHaWj3q8BxA1rY-9_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782499594197-16q02ru2cc5jeqs3f4vvi4de1haf6aqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
